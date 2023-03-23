@@ -1,6 +1,5 @@
 # Github-Hello-World
-Line added to branch "features"
 
-Hello, I'm MenRui at CUHK CSCI!
+Hello, I'm Wang Jiaze!
 
-My Student Number is 1155124465
+My student Number is 1155114536.
